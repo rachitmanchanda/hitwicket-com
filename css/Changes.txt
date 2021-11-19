@@ -1,0 +1,24 @@
+1. Added logo 
+padding - 10px,
+h - 100
+w - 120
+background - 007bff
+
+2. style
+.header-style-four .header-top-area {...
+    padding: 22px 0  -> 10px 0;
+}
+
+.header-four-wrap {
+	padding: 10px 0  -> 10px 0;
+}
+
+3. <div class="slider-img"><img src="img/slider/F_LHB_1_e.png" alt="" data-animation="slideInRightS" data-delay=".8s" height=875 width=480></div>
+
+4. <div class="row brand-active">
+                        <div class="col-xl-2">
+                            <div class="brand-item">
+                                <img src="img/sa/smash_new.png" alt="" width=90 height=90>
+                            </div>
+
+5. added new live match panel for alliance matches
